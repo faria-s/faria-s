@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-📖 I'm a second year software engineering student at University of Minho, Braga,Portugal. <br/>
+📖 I'm a second-year software engineering student at the University of Minho, Braga, Portugal. <br/>
 🧠 I like to challenge myself to learn new skills and technologies. <br/>
-🎭 I've grown as a theather kid that really enjoys quality time with friends and community service. <br/>
-🤝 I'm a part of my student association at [@CeSIUM](https://cesium.di.uminho.pt/), currently as a co-director of DREM (Department of External Relations and Merchandising).<br/>
+🎭 I've grown as a theater kid who enjoys quality time with friends and community service. <br/>
+🤝 I'm a part of my student association at [@CeSIUM](https://cesium.di.uminho.pt/), as a co-director of DREM (Department of External Relations and Merchandising). <br/>
 
 ## Technologies 
 
